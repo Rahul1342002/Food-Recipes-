@@ -17,19 +17,42 @@ const Weare = () => {
 
             {/*Container_1*/}
 
-                <div className='w-full box-border border-2 h-[40vh] md:h-[55vh] mr-4 relative bg-cover bg-center 'style={{ backgroundImage: `url(${p1})` }}>
+                <div className='w-full box-border border-2 h-[40vh] md:h-[55vh] mr-0 lg:mr-4 relative bg-cover bg-center 'style={{ backgroundImage: `url(${p1})` }}>
                 <div className="absolute inset-0 bg-gradient-to-t from-black"></div>
+                <div className='h-[40vh] md:h-[55vh] relative flex flex-col  justify-end mx-4 pb-4'>
+                    <div>
+                        <h1 className='text-white text-sm font-medium'>COLLECTION</h1>
+                    </div>
+                    <div>
+                        <h1 className='text-white text-4xl font-semibold'>TOP 100 COMFORT FOOD RECIPE</h1>
+                    </div>
+                </div>
                 </div>
 
                 {/*Container_2*/}
-                <div className='w-full box-border border-2 h-[40vh] md:h-[55vh] mr-4 relative bg-cover bg-center 'style={{ backgroundImage: `url(${p2})` }}>
-                <div className="absolute inset-0 bg-gradient-to-t from-black"></div>    
+                <div className='w-full box-border border-2 h-[40vh] md:h-[55vh] mr-0 lg:mr-4 relative mt-6 lg:mt-0 bg-cover bg-center 'style={{ backgroundImage: `url(${p2})` }}>
+                <div className="absolute inset-0 bg-gradient-to-t from-black"></div>
+                <div className='h-[40vh] md:h-[55vh] relative flex flex-col  justify-end mx-4 pb-4'>
+                    <div>
+                        <h1 className='text-white text-sm font-medium'>COLLECTION</h1>
+                    </div>
+                    <div>
+                        <h1 className='text-white text-4xl font-semibold'>TOP 100 COMFORT FOOD RECIPE</h1>
+                    </div>
                 </div>
-                
+                </div>
 
                 {/*Container_3*/}
-                <div className='w-full box-border border-2 h-[40vh] md:h-[55vh] mr-4 relative bg-cover bg-center 'style={{ backgroundImage: `url(${p3})` }}>
-                <div className="absolute inset-0 bg-gradient-to-t from-black"></div>    
+                <div className='w-full box-border border-2 h-[40vh] md:h-[55vh] mr-0 lg:mr-4 relative mt-6 lg:mt-0 bg-cover bg-center 'style={{ backgroundImage: `url(${p3})` }}>
+                <div className="absolute inset-0 bg-gradient-to-t from-black"></div>
+                <div className='h-[40vh] md:h-[55vh] relative flex flex-col  justify-end mx-4 pb-4'>
+                    <div>
+                        <h1 className='text-white text-sm font-medium'>COLLECTION</h1>
+                    </div>
+                    <div>
+                        <h1 className='text-white text-4xl font-semibold'>TOP 100 COMFORT FOOD RECIPE</h1>
+                    </div>
+                </div>
                 </div>
                 
 
