@@ -22,7 +22,7 @@ const Explore = () => {
                 {/*Container_1*/}
                 <div>
                     <div
-                        className='w-40 box-border border-2 h-[15vh] md:h-40   relative bg-cover bg-center rounded-full'
+                        className='w-40 box-border border-2 h-40 md:h-40   relative bg-cover bg-center rounded-full'
                         style={{
                         backgroundImage: `url(${p1})`
                     }}></div>   
@@ -33,7 +33,7 @@ const Explore = () => {
                 {/*Container_2*/}
                 <div>
                     <div
-                        className='w-40 box-border border-2 h-[15vh] md:h-40   relative bg-cover bg-center rounded-full'
+                        className='w-40 box-border border-2 h-40 md:h-40   relative bg-cover bg-center rounded-full'
                         style={{
                         backgroundImage: `url(${p2})`
                     }}></div>   
@@ -45,7 +45,7 @@ const Explore = () => {
                 {/*Container_3*/}
                 <div>
                     <div
-                        className='w-40 box-border border-2 h-[15vh] md:h-40   relative bg-cover bg-center rounded-full'
+                        className='w-40 box-border border-2 h-40 md:h-40   relative bg-cover bg-center rounded-full'
                         style={{
                         backgroundImage: `url(${p3})`
                     }}></div>   
@@ -57,7 +57,7 @@ const Explore = () => {
                 {/*Container_4*/}
                 <div>
                     <div
-                        className='w-40 box-border border-2 h-[15vh] md:h-40   relative bg-cover bg-center rounded-full'
+                        className='w-40 box-border border-2 h-40 md:h-40   relative bg-cover bg-center rounded-full'
                         style={{
                         backgroundImage: `url(${p4})`
                     }}></div>   
@@ -69,7 +69,7 @@ const Explore = () => {
                 {/*Container_5*/}
                 <div>
                     <div
-                        className='w-40 box-border border-2 h-[15vh] md:h-40   relative bg-cover bg-center rounded-full'
+                        className='w-40 box-border border-2 h-40 md:h-40   relative bg-cover bg-center rounded-full'
                         style={{
                         backgroundImage: `url(${p5})`
                     }}></div>   
@@ -81,7 +81,7 @@ const Explore = () => {
                 {/*Container_6*/}
                 <div>
                     <div
-                        className='w-40 box-border border-2 h-[15vh] md:h-40   relative bg-cover bg-center rounded-full'
+                        className='w-40 box-border border-2 h-40 md:h-40   relative bg-cover bg-center rounded-full'
                         style={{
                         backgroundImage: `url(${p6})`
                     }}></div>   
